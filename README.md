@@ -1,1 +1,2 @@
 # Image_Classification_using_CNN
+Developed a deep learning pipeline using a Convolutional Neural Network (CNN) to classify images into multiple categories. Data preprocessing and augmentation techniques were applied to improve generalization. The model was built using TensorFlow/Keras and achieved over 98% test accuracy. Results were compared with traditional ML algorithms such as KNN and SVM to benchmark performance.
